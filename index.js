@@ -66,5 +66,5 @@ function forkRepo() {
 }
 
 function getToken() {
-  return 'token 6927d1f770638e71982ba363103ece5b74ef337d'
+  return ''
 }
